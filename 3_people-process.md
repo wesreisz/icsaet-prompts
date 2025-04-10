@@ -52,17 +52,19 @@ A structured analysis including:
    - Step 1: Data Collection
      * Review content.json for people, process, and team-related sessions
      * Extract session details, speakers, and descriptions
-     * Note key themes and topics across individual, team, and organizational levels
+     * Note key themes and topics
+     * Rank sessions by attendance metrics and prioritize analysis of the most well-attended talks
+     * Cross-reference attendance data with session ratings and feedback
    
    - Step 2: Initial Analysis
-     * Group sessions by themes (individual development, team dynamics, organizational processes)
+     * Group sessions by organizational themes
      * Identify recurring patterns and concepts
      * Note any novel or innovative approaches
    
    - Step 3: Deep Dive
      * Use connector to gather detailed insights from talks
      * Analyze specific implementation examples
-     * Evaluate practical applicability at different organizational levels
+     * Evaluate practical applicability
    
    - Step 4: Validation
      * Cross-reference with knowledge base ratings
@@ -72,17 +74,16 @@ A structured analysis including:
    - Step 5: Synthesis
      * Combine insights from all sources
      * Identify key trends and their significance
-     * Develop practical recommendations for different organizational levels
+     * Develop practical recommendations
 
 2. Key Trends Overview
    - List of major people, process, and team trends identified
    - Brief description of each trend
    - Level of maturity and adoption
    - Data sources used for each trend
-   - Applicability to individual, team, and organizational levels
 
 3. Detailed Analysis
-   - Individual improvement implications
+   - Individual development implications
    - Team effectiveness impact
    - Organizational process considerations
    - Implementation considerations
@@ -90,9 +91,7 @@ A structured analysis including:
    - Supporting evidence from multiple sources
 
 4. Practical Recommendations
-   - How to evaluate these trends for personal development
-   - Team-level implementation strategies
-   - Organizational adoption approaches
+   - How to evaluate these trends for your organization
    - Suggested next steps for exploration
    - Resources for deeper learning
    - Based on verified information from multiple sources
@@ -107,14 +106,12 @@ A structured analysis including:
 - Consider organizational readiness and change management needs
 - Cross-reference information across different data sources
 - Validate trends against multiple sources of evidence
-- Consider diversity, equity, and inclusion implications
-- Evaluate remote and hybrid work considerations
 
 ## Evaluation Criteria
 The analysis should be:
-- Comprehensive yet focused on practical applications for different organizational levels
+- Comprehensive yet focused on practical applications
 - Based on concrete examples and evidence from multiple sources
-- Actionable for individuals, teams, and organizations
+- Actionable for technology leaders and organizations
 - Balanced in considering both benefits and challenges
 - Clear and well-structured for easy understanding
 - Supported by data from content.json, connector, and knowledge base 

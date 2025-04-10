@@ -9,28 +9,51 @@
   - Real-time insights and content from the actual talks via the connector
   - Event ratings and feedback from the knowledge base
 
+## Primary Language Tracks
+The analysis will focus on three key language-related tracks:
+
+1. Memory Safe Native Languages and WASM
+   - Rust, Go, and other memory-safe systems programming languages
+   - WebAssembly (WASM) adoption and implementation patterns
+   - Performance and safety considerations in native development
+   - Cross-platform compilation and deployment strategies
+
+2. Engineering Productivity and Developer Experience
+   - Language features that enhance developer productivity
+   - Tooling and IDE improvements
+   - Testing and debugging capabilities
+   - Documentation and learning resources
+   - Community and ecosystem maturity
+
+3. Emerging Trends in Frontend and Mobile
+   - Modern JavaScript/TypeScript features and frameworks
+   - Mobile development languages and cross-platform solutions
+   - Progressive Web Apps (PWA) and web platform capabilities
+   - State management and reactive programming patterns
+   - Performance optimization techniques
+
 ## Goal
-To identify and analyze the most important programming language trends, features, and practices discussed at QCon, with a focus on their practical implications for individual contributors and code creation, using a comprehensive data-driven approach.
+To identify and analyze the most important programming language trends, patterns, and practices discussed at QCon, with a focus on their practical implications for software development, using a comprehensive data-driven approach.
 
 ## Role
 Act as an expert language analyst who can:
 - Synthesize complex programming language concepts
-- Identify emerging language features and patterns
-- Evaluate the practical applicability of new language capabilities
-- Connect new language ideas to existing development practices
+- Identify emerging patterns and trends
+- Evaluate the practical applicability of new approaches
+- Connect new ideas to existing development practices
 - Integrate information from multiple sources to provide a complete picture
 
 ## Task
 Analyze the programming language-related content from QCon sessions to:
-1. Identify key language trends and features
-2. Evaluate their significance and potential impact on code creation
-3. Assess their relevance to individual contributors
+1. Identify key trends and patterns
+2. Evaluate their significance and potential impact
+3. Assess their relevance to software development
 4. Provide actionable insights for implementation
 
 ## Requirements
-- Focus on trends that have practical implications for individual code creation
-- Consider both technical and productivity aspects of language features
-- Include real-world examples and code samples when available
+- Focus on trends that have practical implications for software development
+- Consider both technical and organizational aspects of language features
+- Include real-world examples and case studies when available
 - Highlight potential challenges and considerations for adoption
 - Provide clear, actionable recommendations
 - Use multiple data sources:
@@ -42,7 +65,7 @@ Analyze the programming language-related content from QCon sessions to:
 - Session titles and descriptions from content.json
 - Speaker presentations and materials from the connector
 - Key takeaways and discussions from real-time data
-- Relevant code examples or case studies
+- Relevant case studies or examples
 - Event ratings and feedback from knowledge base
 
 ## Output
@@ -52,43 +75,43 @@ A structured analysis including:
    - Step 1: Data Collection
      * Review content.json for programming language-related sessions
      * Extract session details, speakers, and descriptions
-     * Note key language features and topics
+     * Note key themes and topics
    
    - Step 2: Initial Analysis
      * Group sessions by language themes
      * Identify recurring patterns and concepts
-     * Note any novel or innovative language features
+     * Note any novel or innovative approaches
    
    - Step 3: Deep Dive
      * Use connector to gather detailed insights from talks
-     * Analyze specific code examples
-     * Evaluate practical applicability for individual contributors
+     * Analyze specific implementation examples
+     * Evaluate practical applicability
    
    - Step 4: Validation
      * Cross-reference with knowledge base ratings
      * Verify trends across multiple sources
-     * Assess developer reception and feedback
+     * Assess community reception and feedback
    
    - Step 5: Synthesis
      * Combine insights from all sources
-     * Identify key language trends and their significance
-     * Develop practical recommendations for individual contributors
+     * Identify key trends and their significance
+     * Develop practical recommendations
 
-2. Key Language Trends Overview
+2. Key Trends Overview
    - List of major programming language trends identified
    - Brief description of each trend
    - Level of maturity and adoption
    - Data sources used for each trend
 
 3. Detailed Analysis
-   - Technical implications for code creation
-   - Productivity impact for individual contributors
+   - Technical implications
+   - Organizational impact
    - Implementation considerations
    - Potential challenges and risks
    - Supporting evidence from multiple sources
 
 4. Practical Recommendations
-   - How to evaluate these language trends for your work
+   - How to evaluate these trends for your organization
    - Suggested next steps for exploration
    - Resources for deeper learning
    - Based on verified information from multiple sources
@@ -97,16 +120,16 @@ A structured analysis including:
 [Include specific examples of programming language trends and their analysis, citing sources from content.json, connector data, and knowledge base]
 
 ## Additional Considerations
-- Consider the balance between language innovation and stability
+- Consider the balance between innovation and stability
 - Evaluate the learning curve and adoption costs
-- Assess the impact on existing codebases and development workflows
-- Consider individual developer readiness and skill requirements
+- Assess the impact on existing systems and processes
+- Consider organizational readiness and culture
 - Cross-reference information across different data sources
 - Validate trends against multiple sources of evidence
 
 ## Evaluation Criteria
 The analysis should be:
-- Comprehensive yet focused on practical applications for individual contributors
+- Comprehensive yet focused on practical applications
 - Based on concrete examples and evidence from multiple sources
 - Actionable for software developers
 - Balanced in considering both benefits and challenges
